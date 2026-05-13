@@ -1,15 +1,27 @@
+<h1 align="center">Simao Fiuza</h1>
+
+<h3 align="center">Economics Student · Data Analysis · Digital Markets</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sim%C3%A3o-fi%C3%BAza">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:simaofiuza1@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A66C2,50:16A34A,100:F2C811&section=header" alt="">
 </p>
 
-# 👋 Hey, I'm Simao Fiuza
+<p align="center">
+  <a href="mailto:simaofiuza1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F8FAFC" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/sim%C3%A3o-fi%C3%BAza">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F8FAFC" alt="LinkedIn">
+  </a>
+  <img src="https://img.shields.io/badge/Batalha,%20Portugal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=16A34A&labelColor=F8FAFC" alt="Location">
+</p>
 
-### 📊 Economics Student | Data Analysis | Power BI | R + Python
+<p align="center">
+  <img src="https://img.shields.io/badge/Economics-1E3A8A?style=flat-square" alt="Economics">
+  <img src="https://img.shields.io/badge/Data%20Analysis-166534?style=flat-square" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Power%20BI-B45309?style=flat-square" alt="Power BI">
+  <img src="https://img.shields.io/badge/R%20%2B%20Python-334155?style=flat-square" alt="R and Python">
+</p>
 
 I'm an Economics student at the **University of Beira Interior**, interested in the intersection between **economics, data, technology and financial markets**.
 
