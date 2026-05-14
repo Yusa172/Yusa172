@@ -1,4 +1,4 @@
-<h1 align="center">Simao Fiuza</h1>
+<h1 align="center">Simão Fiúza</h1>
 
 <h3 align="center">Economics Student · Data Analysis · Digital Markets</h3>
 
