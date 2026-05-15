@@ -77,7 +77,7 @@ Planned features:
 - Histograms with VaR cutoff lines using Matplotlib or Plotly
 - Reusable scripts and notebooks for GitHub documentation
 
-**Stack:** Python · NumPy · pandas · SciPy · Matplotlib/Plotly · Yahoo Finance data
+**Stack:** Python · NumPy · pandas · SciPy · Matplotlib/Plotly
 
 ---
 
