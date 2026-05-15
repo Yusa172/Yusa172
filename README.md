@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/sim%C3%A3o-fi%C3%BAza">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F8FAFC" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Batalha,%20Portugal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=16A34A&labelColor=F8FAFC" alt="Location">
+  <img src="https://img.shields.io/badge/Leiria,%20Portugal-0F172A?style=for-the-badge&logo=googlemaps&logoColor=16A34A&labelColor=F8FAFC" alt="Location">
 </p>
 
 <p align="center">
@@ -41,6 +41,9 @@ I enjoy turning raw information into clear insights through data analysis, dashb
 
 ## 🔥 Featured Work
 
+- [`Portfolio Value at Risk (VaR) Calculator`](#) **· Ongoing**  
+  Python project focused on estimating portfolio risk using **Historical VaR**, **Parametric VaR** and **Monte Carlo simulation**, with CVaR, backtesting and visual analysis of loss distributions.
+
 - [`CS2 Skins Market Analysis`](#)  
   Research project about Counter-Strike 2 skins as digital assets, exploring supply, demand, hype, volatility and market shocks.
 
@@ -49,6 +52,32 @@ I enjoy turning raw information into clear insights through data analysis, dashb
 
 - [`Economics & Financial Markets`](#)  
   Ongoing academic interest in markets, indicators, investment behavior and digital economies.
+
+---
+
+## 🚧 Currently Building
+
+**Value at Risk (VaR) for Simple Portfolios**
+
+I'm developing a finance-oriented Python project to calculate the potential maximum expected loss of a hypothetical stock portfolio over a defined confidence level.
+
+The project will compare three common approaches:
+
+- **Historical VaR** - based on historical portfolio returns and empirical percentiles.
+- **Parametric VaR** - based on mean, volatility and the normal distribution.
+- **Monte Carlo VaR** - based on simulated return scenarios and portfolio loss distributions.
+
+Planned features:
+
+- Daily historical data collection from Yahoo Finance
+- Log return calculation for 3-5 assets
+- VaR and CVaR / Expected Shortfall estimation
+- Portfolio volatility and stress-risk analysis
+- Backtesting with exception counting and Kupiec-style validation
+- Histograms with VaR cutoff lines using Matplotlib or Plotly
+- Reusable scripts and notebooks for GitHub documentation
+
+**Stack:** Python · NumPy · pandas · SciPy · Matplotlib/Plotly · Yahoo Finance data
 
 ---
 
@@ -72,6 +101,8 @@ I enjoy turning raw information into clear insights through data analysis, dashb
 ![Economics](https://img.shields.io/badge/Economics-1F2937?style=flat-square)
 ![Statistics](https://img.shields.io/badge/Statistics-374151?style=flat-square)
 ![Financial Markets](https://img.shields.io/badge/Financial%20Markets-065F46?style=flat-square)
+![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-7F1D1D?style=flat-square)
+![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo-312E81?style=flat-square)
 ![Digital Economy](https://img.shields.io/badge/Digital%20Economy-7C2D12?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4C1D95?style=flat-square)
 
@@ -96,7 +127,7 @@ I enjoy turning raw information into clear insights through data analysis, dashb
 
 ## 💬 Let's Talk
 
-📍 Batalha, Portugal  
+📍 Leiria, Portugal  
 📧 [simaofiuza1@gmail.com](mailto:simaofiuza1@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sim%C3%A3o-fi%C3%BAza)
 
